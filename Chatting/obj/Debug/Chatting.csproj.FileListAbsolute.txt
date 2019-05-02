@@ -1,0 +1,10 @@
+c:\users\asdfk\source\repos\Chatting\Chatting\bin\Debug\Chatting.exe.config
+c:\users\asdfk\source\repos\Chatting\Chatting\bin\Debug\Chatting.exe
+c:\users\asdfk\source\repos\Chatting\Chatting\bin\Debug\Chatting.pdb
+c:\users\asdfk\source\repos\Chatting\Chatting\obj\Debug\Chatting.csprojAssemblyReference.cache
+c:\users\asdfk\source\repos\Chatting\Chatting\obj\Debug\Chatting.Form1.resources
+c:\users\asdfk\source\repos\Chatting\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+c:\users\asdfk\source\repos\Chatting\Chatting\obj\Debug\Chatting.csproj.GenerateResource.cache
+c:\users\asdfk\source\repos\Chatting\Chatting\obj\Debug\Chatting.csproj.CoreCompileInputs.cache
+c:\users\asdfk\source\repos\Chatting\Chatting\obj\Debug\Chatting.exe
+c:\users\asdfk\source\repos\Chatting\Chatting\obj\Debug\Chatting.pdb
